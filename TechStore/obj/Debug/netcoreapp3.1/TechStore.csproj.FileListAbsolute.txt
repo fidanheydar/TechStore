@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.AssemblyInfo.cs
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TechStore\TechStore\bin\Debug\netcoreapp3.1\TechStore.exe
+C:\Users\HP\Desktop\TechStore\TechStore\bin\Debug\netcoreapp3.1\TechStore.deps.json
+C:\Users\HP\Desktop\TechStore\TechStore\bin\Debug\netcoreapp3.1\TechStore.runtimeconfig.json
+C:\Users\HP\Desktop\TechStore\TechStore\bin\Debug\netcoreapp3.1\TechStore.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TechStore\TechStore\bin\Debug\netcoreapp3.1\TechStore.dll
+C:\Users\HP\Desktop\TechStore\TechStore\bin\Debug\netcoreapp3.1\TechStore.pdb
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.dll
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.pdb
+C:\Users\HP\Desktop\TechStore\TechStore\obj\Debug\netcoreapp3.1\TechStore.genruntimeconfig.cache
